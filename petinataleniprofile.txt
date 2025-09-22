@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html kang="en-US">
+
+<head>
+    <meta charset="utd-8">
+    <meta name="viewport" content="width=device-width,intitial-scale=1.0">
+    <title>Petina Taleni | WDD 130</title>
+
+    <head>
+
+    <body>
+    </body>
+
+</html>
+
+<head>
+    <nav>
+        <a href="#">Home</a>
+        <a href="wwr/">Rafting Website</a>
+    </nav>
+</head>
+<main>
+    <h1>Petina Taleni | WDD 130</h1>
+    <img src="images/petinataleni.jpg" alt="Petina Taleni's Profile" width="200" <p>Hello1 my name is Petina Lauie
+    Taleni. I am from Western Samoa and i love the nature. I am currently at home doing online school and help out with
+    the family matters. I love my small island</p>
+    <main>
+        <footer>
+            <p>©2025 🌴 Petina Lauie Taleni 🌴 Western Samoa</p>
+        </footer>
+        </body>
+
+        </html>

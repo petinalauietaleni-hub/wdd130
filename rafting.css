@@ -1,0 +1,51 @@
+header-grid {
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    align-items: center;
+    padding: 1rem;
+}
+.nav-flex{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    padding: ;
+    margin: 0;
+}
+    
+.history{
+    padding:2rem;
+    background-color: #f0f8ff;
+    text-align: center;
+}
+.adventure-gallery {
+    display: flex;
+    justify-content: space-between
+    flex-wrap: wrap;
+    gap: 1rem;
+    padding: 2rem;
+}
+.adventure-gallery {
+    flex: 1 1 18%;
+    text-align: center;
+}
+.adventure-gallery img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+.footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    background-color: #333;
+    color: white;
+}
+.social-icons {
+    display: flex;
+    gap: 1rem;
+}
+.social-icons img {
+    width: 32px
+    height: 32px;
+}
